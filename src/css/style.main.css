@@ -1,0 +1,9 @@
+.icon,
+nav,
+.userdata {
+    cursor: pointer;
+}
+
+ul {
+    list-style: none;
+}
